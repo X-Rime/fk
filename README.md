@@ -1,6 +1,6 @@
 # fk
 # python期末项目
-- 代码GithubURL：https://github.com/camaxjj/python
+- 代码GithubURL：https://github.com/X-Rime/fk
 - pythonanywhereURL：http://xiongxionghandsome.pythonanywhere.com/
 
 # 项目简介
