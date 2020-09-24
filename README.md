@@ -45,7 +45,7 @@
     1. 简易的退换处理
 
 
-# 项目页面
+# 项目页面（点击查询进入主界面）
 ![images](https://github.com/X-Rime/fk/raw/master/images/fk.jpg)
 
 ![images](https://github.com/X-Rime/fk/raw/master/images/fk2.jpg)
