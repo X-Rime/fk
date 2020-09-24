@@ -43,3 +43,9 @@
     3. 可以统一打包 并下单处理
  - 退换货管理
     1. 简易得退换处理
+
+
+# 项目页面
+![images](https://github.com/X-Rime/fk/blob/master/images/fk.jpg)
+
+![images](https://github.com/X-Rime/fk/blob/master/images/fk2.jpg)
