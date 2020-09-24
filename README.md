@@ -46,6 +46,6 @@
 
 
 # 项目页面
-![images](https://github.com/X-Rime/fk/blob/master/images/fk.jpg)
+![images](https://github.com/X-Rime/fk/raw/master/images/fk.jpg)
 
-![images](https://github.com/X-Rime/fk/blob/master/images/fk2.jpg)
+![images](https://github.com/X-Rime/fk/raw/master/images/fk2.jpg)
