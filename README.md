@@ -1,7 +1,7 @@
 # fk
 # python期末项目
 - 代码GithubURL：https://github.com/X-Rime/fk
-- pythonanywhereURL：http://xiongxionghandsome.pythonanywhere.com/ （默认账号密码 admin admin）
+- pythonanywhereURL：http://xiongxionghandsome.pythonanywhere.com/ （默认账号密码 admin admin 点击查询进入主界面）
 
 # 项目简介
 - 简易商品搜索系统
